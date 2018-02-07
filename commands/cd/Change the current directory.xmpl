@@ -1,2 +1,3 @@
 #change the current directory
+#location dir
 cd {:directory path:}
